@@ -8,7 +8,7 @@ headers = {
 }
 EMAIL = "peppersoup234@gmail.com"
 MY_EMAIL = "mbelengamichael21@gmail.com"
-PASSWORD = "mbelenga21"
+PASSWORD = "password"
 
 url = "https://www.amazon.com/Instant-Pot-Pressure-Steamer-Sterilizer/dp/B08PQ2KWHS/ref=pd_di_sccai_1/" \
       "130-6503134-1932226?pd_rd_w=JkNPj&pf_rd_p=c9443270-b914-4430-a90b-72e3e7e784e0&pf_rd_r=3533133AZMPRVY1PKHK2&pd_rd_" \
